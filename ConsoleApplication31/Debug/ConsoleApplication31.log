@@ -1,0 +1,11 @@
+﻿  test.cpp
+c:\users\sjo50\onedrive\문서\visual studio 2015\projects\consoleapplication31\consoleapplication31\test.cpp(76): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sjo50\onedrive\문서\visual studio 2015\projects\consoleapplication31\consoleapplication31\test.cpp(215): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 'strtok' 선언을 참조하십시오.
+c:\users\sjo50\onedrive\문서\visual studio 2015\projects\consoleapplication31\consoleapplication31\test.cpp(220): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 'strtok' 선언을 참조하십시오.
+c:\users\sjo50\onedrive\문서\visual studio 2015\projects\consoleapplication31\consoleapplication31\test.cpp(264): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\sjo50\onedrive\문서\visual studio 2015\projects\consoleapplication31\consoleapplication31\test.cpp(43): warning C4715: 'data_set::int_show': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  ConsoleApplication31.vcxproj -> C:\Users\sjo50\onedrive\문서\visual studio 2015\Projects\ConsoleApplication31\Debug\ConsoleApplication31.exe
+  ConsoleApplication31.vcxproj -> C:\Users\sjo50\onedrive\문서\visual studio 2015\Projects\ConsoleApplication31\Debug\ConsoleApplication31.pdb (Full PDB)
